@@ -21,3 +21,4 @@ class Solution:
             
             # Return whether the reversed string equals the original
             return s == s[::-1]
+

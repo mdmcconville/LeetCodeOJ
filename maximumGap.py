@@ -19,3 +19,5 @@ class Solution:
                 gaps.append(num[i+1]-num[i])
             # Return the largest gap
             return max(gaps)
+
+
